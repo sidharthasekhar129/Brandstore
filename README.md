@@ -1,6 +1,6 @@
 # brandstorex
 
-A new Flutter application to manage e-commerce work.check screenshots for more idea.
+A new Flutter application to manage e-commerce work.check screenshots for more ideas.
 
 ## Getting Started
 
