@@ -14,3 +14,6 @@ A new Flutter application to manage e-commerce work.check screenshots for more i
  <img src="Screenshots/Screenshot_20201119_143138.png" width=300 height=500 />  <img src="Screenshots/Screenshot_20201119_143156.png" width=300 height=500 />
  <img src="Screenshots/Screenshot_20201119_143205.png" width=300 height=500 />  <img src="Screenshots/Screenshot_20201119_143212.png" width=300 height=500 />
  <img src="Screenshots/Screenshot_20201119_143236.png" width=300 height=500 />  <img src="Screenshots/Screenshot_20201119_143252.png" width=300 height=500 />
+ <img src="Screenshots/11.png" width=300 height=500 />  <img src="Screenshots/22.png" width=300 height=500 />
+ <img src="Screenshots/33.png" width=300 height=500 />  <img src="Screenshots/44.png" width=300 height=500 />
+            <img src="Screenshots/55.png" width=300 height=500 />  
