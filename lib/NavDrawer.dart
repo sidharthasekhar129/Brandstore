@@ -171,6 +171,7 @@ class NavDrawer extends StatelessWidget {
             onTap: () => {Navigator.of(context).pop(),Navigator.of(context).push(
                 MaterialPageRoute(builder: (context) => SettingPage(),))},
           ),
+
           ListTile(
             leading: Icon(Icons.perm_phone_msg),
             title: Text('Contact Us'),
